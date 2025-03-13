@@ -10,5 +10,7 @@ int main() {
 
     int PROD = x * y;
 
-    std::cout << "PROD = " << PROD << "\n"
+    std::cout << "PROD = " << PROD << "\n";
+
+    return 0;
     }
